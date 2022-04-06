@@ -1,2 +1,2 @@
-# S-ries-Temporais
+# Series-Temporais
 Códigos que fiz durante a disciplina de Séries Temporais no curso de Estatística na UFPA
