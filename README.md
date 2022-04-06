@@ -1,5 +1,5 @@
 # Series-Temporais
-Códigos que fiz durante a disciplina de Séries Temporais no curso de Estatística na UFPA
+Códigos que fiz durante a disciplina de Séries Temporais no curso de Estatística na UFPA. /n
 Contém avaliações e um projeto final incluindo todos os conceitos aprendidos durante a disciplina.
 
 Libs:
