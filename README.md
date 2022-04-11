@@ -16,4 +16,4 @@ Técnicas e conceitos:
 - Estacionariedade
 - Autocorrelação
 - Teste de dickey-fuller aumentado
-- Modelo SARIMAX (e derivantes)
+- Modelo ARIMA (e derivantes)
