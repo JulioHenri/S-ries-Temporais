@@ -2,6 +2,8 @@
 Códigos que fiz durante a disciplina de Séries Temporais no curso de Estatística na UFPA 
 Contém avaliações e um projeto final incluindo todos os conceitos aprendidos durante a disciplina.
 
+<a href= "https://github.com/JulioHenri/S-ries-Temporais/blob/master/ultima_av/ult_av.ipynb"> Notebook com projeto final </a>
+
 Libs:
 - Pandas
 - Numpy
