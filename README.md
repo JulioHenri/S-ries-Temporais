@@ -1,4 +1,4 @@
-# Séries-Temporais
+# Séries Temporais
 Códigos que fiz durante a disciplina de Séries Temporais no curso de Estatística na UFPA 
 Contém avaliações e um projeto final incluindo todos os conceitos aprendidos durante a disciplina.
 
